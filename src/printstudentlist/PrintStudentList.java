@@ -18,7 +18,7 @@ public class PrintStudentList {
        Student[] list = new Student[3]; // array of objects
        //create object fro 3 student , store and print value
        Student s1 = new Student();
-       s1.setName("ram is a good boy");
+       s1.setName("ram is a goo huihiojjjjjjjjjjjjjjjd boy");
        s1.setAge(23);
        Student s2 = new Student();
        s2.setName("ranbir is a good girl");
